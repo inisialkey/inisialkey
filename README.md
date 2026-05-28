@@ -22,8 +22,6 @@
 <!-- <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C244%20hrs%2014%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -51,5 +49,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 20:34:04 UTC
+ Last Updated on 28/05/2026 20:42:49 UTC
 <!--END_SECTION:waka-->
