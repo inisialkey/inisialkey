@@ -22,13 +22,11 @@
 <!-- <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C570%20hrs%2015%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 490.0 kB Used in GitHub's Storage 
+> 📦 490.5 kB Used in GitHub's Storage 
  > 
 > 🏆 106 Contributions in the Year 2026
  > 
@@ -38,59 +36,18 @@
  > 
 > 🔑 73 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                551 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌆 Daytime                609 commits         ████████░░░░░░░░░░░░░░░░░   33.08 % 
-🌃 Evening                503 commits         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-🌙 Night                  178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Tuesday                  362 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Wednesday                329 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Thursday                 307 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Saturday                 177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Dart                     31 hrs 45 mins      ██████████████░░░░░░░░░░░   56.24 % 
-Markdown                 20 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   35.75 % 
-YAML                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Text                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Other                    45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-
-🔥 Editors: 
-Claude Code              43 hrs 12 mins      ███████████████████░░░░░░   76.50 % 
-VS Code                  13 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-
-💻 Operating System: 
-Mac                      56 hrs 28 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     52 repos            ███████████░░░░░░░░░░░░░░   42.28 % 
-JavaScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Kotlin                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Dart                     52 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
+JavaScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Kotlin                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 
 
 
 
- Last Updated on 22/07/2026 19:58:37 UTC
+ Last Updated on 23/07/2026 19:55:46 UTC
 <!--END_SECTION:waka-->
