@@ -22,15 +22,15 @@
 <!-- <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C702%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C710%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-641%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-649%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 494.3 kB Used in GitHub's Storage 
+> 📦 494.8 kB Used in GitHub's Storage 
  > 
 > 🏆 266 Contributions in the Year 2026
  > 
@@ -67,42 +67,42 @@ Sunday                   300 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 14 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   33.04 % 
-Dart                     14 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   32.37 % 
-TypeScript               11 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Other                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Bash                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Markdown                 15 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.07 % 
+Dart                     13 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   31.21 % 
+TypeScript               10 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Bash                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-Claude Code              40 hrs 11 mins      ███████████████████████░░   90.07 % 
-VS Code                  4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Claude Code              41 hrs 19 mins      ███████████████████████░░   93.19 % 
+VS Code                  3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 💻 Operating System: 
-Mac                      44 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 43 mins (93.5%)
+⏱ AI Coding Time: 42 hrs 41 mins (96.27%)
 
-✍️ 111,187 lines written by AI, 741 lines written by hand (99.34% AI-written)
+✍️ 117,617 lines written by AI, 326 lines written by hand (99.72% AI-written)
 
-🔤 1,113,839,411 Input Tokens, 5,549,827 Output Tokens
+🔤 959,011,673 Input Tokens, 6,080,239 Output Tokens
 
-💵 $6097.96 Estimated AI Cost This Week
+💵 $5408.74 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 316 AI Prompts
+🧠 50 AI Sessions, 351 AI Prompts
 
-Opus                     101,308 lines       ███████████████████████░░   90.75 % 
-Fable                    10,322 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Opus                     107,741 lines       ███████████████████████░░   91.26 % 
+Fable                    10,322 lines        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📚 Verbose Prompter — average 3,852 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 40.51% of changed lines were hand-edited
+🤖 AI-Driven — 99.72% of written lines came from AI
+📚 Verbose Prompter — average 3,533 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 25.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -112,11 +112,11 @@ Dart                     53 repos            ██████████░�
 JavaScript               17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 Kotlin                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
 
 
- Last Updated on 12/08/2026 19:36:44 UTC
+ Last Updated on 13/08/2026 19:35:44 UTC
 <!--END_SECTION:waka-->
