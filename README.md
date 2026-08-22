@@ -22,9 +22,9 @@
 <!-- <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C749%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C755%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-689%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-696%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,45 +67,46 @@ Sunday                   413 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     14 hrs 34 mins      ███████████░░░░░░░░░░░░░░   42.93 % 
-Markdown                 13 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.89 % 
-Other                    3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Bash                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown                 14 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   41.64 % 
+Dart                     14 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.19 % 
+Other                    3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Text                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 51 mins      ██████████████████████░░░   87.96 % 
-VS Code                  3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Cursor                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Claude Code              32 hrs 23 mins      ███████████████████████░░   90.79 % 
+VS Code                  2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Cursor                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      33 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 5 mins (94.51%)
+⏱ AI Coding Time: 34 hrs 34 mins (96.94%)
 
-✍️ 37,085 lines written by AI, 917 lines written by hand (97.59% AI-written)
+✍️ 42,759 lines written by AI, 415 lines written by hand (99.04% AI-written)
 
-🔤 15,309,942 Input Tokens, 3,939,388 Output Tokens
+🔤 17,239,082 Input Tokens, 4,585,256 Output Tokens
 
-💵 $475.15 Estimated AI Cost This Week
+💵 $553.34 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 272 AI Prompts
+🧠 39 AI Sessions, 270 AI Prompts
 
-Opus                     36,342 lines        ████████████████████████░   96.49 % 
-Fable                    1,033 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Sonnet                   284 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Haiku                    4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Opus                     41,959 lines        ████████████████████████░   97.17 % 
+Fable                    939 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Sonnet                   284 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.59% of written lines came from AI
-📚 Verbose Prompter — average 5,111 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 36.75% of changed lines were hand-edited
+🤖 AI-Driven — 99.04% of written lines came from AI
+📚 Verbose Prompter — average 3,547 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -121,5 +122,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 19:08:12 UTC
+ Last Updated on 22/08/2026 18:58:46 UTC
 <!--END_SECTION:waka-->
