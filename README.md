@@ -32,7 +32,7 @@
 
 > 📦 541.6 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2026
+> 🏆 148 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,21 +43,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1146 commits        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌆 Daytime                1397 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
-🌃 Evening                1090 commits        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-🌙 Night                  247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+🌞 Morning                1146 commits        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+🌆 Daytime                1399 commits        █████████░░░░░░░░░░░░░░░░   36.04 % 
+🌃 Evening                1090 commits        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+🌙 Night                  247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 Tuesday                  666 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                628 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Thursday                 548 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Friday                   613 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Wednesday                628 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Thursday                 550 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Friday                   613 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 Saturday                 380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Sunday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Sunday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 ```
 
 
@@ -67,42 +67,42 @@ Sunday                   617 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 15 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.22 % 
-Dart                     10 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   31.21 % 
-Python                   2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-HTML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Markdown                 9 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.76 % 
+Dart                     8 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.89 % 
+Python                   1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Bash                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+HTML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Claude Code              33 hrs 4 mins       ████████████████████████░   97.89 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Claude Code              25 hrs 1 min        ████████████████████████░   97.44 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 Operating System: 
-Mac                      33 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 22 mins (98.78%)
+⏱ AI Coding Time: 25 hrs 16 mins (98.39%)
 
-✍️ 22,564 lines written by AI, 19 lines written by hand (99.92% AI-written)
+✍️ 17,432 lines written by AI, 19 lines written by hand (99.89% AI-written)
 
-🔤 29,430,692 Input Tokens, 3,054,393 Output Tokens
+🔤 19,693,764 Input Tokens, 2,460,238 Output Tokens
 
-💵 $570.02 Estimated AI Cost This Week
+💵 $449.94 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 378 AI Prompts
+🧠 15 AI Sessions, 303 AI Prompts
 
-Opus                     21,727 lines        ████████████████████████░   96.22 % 
-Fable                    854 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Opus                     16,595 lines        ████████████████████████░   95.11 % 
+Fable                    854 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 1,922 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📚 Verbose Prompter — average 1,773 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +118,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:53:43 UTC
+ Last Updated on 15/10/2026 21:37:48 UTC
 <!--END_SECTION:waka-->
