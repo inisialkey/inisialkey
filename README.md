@@ -32,7 +32,7 @@
 
 > 📦 541.6 kB Used in GitHub's Storage 
  > 
-> 🏆 151 Contributions in the Year 2026
+> 🏆 154 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,21 +43,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1146 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-🌆 Daytime                1401 commits        █████████░░░░░░░░░░░░░░░░   36.07 % 
-🌃 Evening                1090 commits        ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+🌞 Morning                1146 commits        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+🌆 Daytime                1401 commits        █████████░░░░░░░░░░░░░░░░   36.05 % 
+🌃 Evening                1092 commits        ███████░░░░░░░░░░░░░░░░░░   28.10 % 
 🌙 Night                  247 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Tuesday                  666 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Wednesday                628 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Thursday                 552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Friday                   613 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Saturday                 380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Sunday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Monday                   428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Tuesday                  666 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Wednesday                628 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Thursday                 552 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Friday                   613 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Saturday                 382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Sunday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 ```
 
 
@@ -67,40 +67,40 @@ Sunday                   617 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 7 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.91 % 
-Dart                     4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Other                    3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Text                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Markdown                 7 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.76 % 
+Dart                     4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Other                    3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Text                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+C#                       1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 5 mins       ████████████████████████░   96.25 % 
-VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Claude Code              20 hrs 46 mins      ████████████████████████░   96.20 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Mac                      21 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 18 mins (97.2%)
+⏱ AI Coding Time: 20 hrs 59 mins (97.15%)
 
-✍️ 9,342 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,730 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 22,843,387 Input Tokens, 1,941,061 Output Tokens
+🔤 22,242,037 Input Tokens, 1,934,663 Output Tokens
 
-💵 $300.03 Estimated AI Cost This Week
+💵 $292.37 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 283 AI Prompts
+🧠 46 AI Sessions, 282 AI Prompts
 
-Opus                     8,130 lines         █████████████████████░░░░   85.99 % 
-Fable                    862 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Sonnet                   463 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Opus                     7,518 lines         █████████████████████░░░░   85.02 % 
+Fable                    862 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sonnet                   463 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,835 characters per prompt
+📚 Verbose Prompter — average 1,828 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -118,5 +118,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:36:38 UTC
+ Last Updated on 24/10/2026 21:04:20 UTC
 <!--END_SECTION:waka-->
