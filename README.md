@@ -43,20 +43,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1587 commits        ████████░░░░░░░░░░░░░░░░░   31.73 % 
-🌆 Daytime                1916 commits        ██████████░░░░░░░░░░░░░░░   38.30 % 
-🌃 Evening                1232 commits        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+🌞 Morning                1590 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌆 Daytime                1916 commits        ██████████░░░░░░░░░░░░░░░   38.28 % 
+🌃 Evening                1232 commits        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Tuesday                  947 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Wednesday                1044 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Thursday                 771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Friday                   625 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Saturday                 460 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Monday                   508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Tuesday                  947 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Wednesday                1044 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Thursday                 771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Friday                   628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Saturday                 460 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 Sunday                   647 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 ```
 
@@ -67,37 +67,37 @@ Sunday                   647 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.77 % 
-Markdown                 3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
-Other                    2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Markdown                 1 hr 41 mins        ████████████░░░░░░░░░░░░░   49.08 % 
+Other                    1 hr 26 mins        ███████████░░░░░░░░░░░░░░   42.06 % 
+Dart                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 54 mins       █████████████████████████   100.00 % 
+Claude Code              3 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 54 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 26 mins (100.0%)
 
-✍️ 2,924 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 152 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,128,911 Input Tokens, 575,480 Output Tokens
+🔤 1,077,966 Input Tokens, 187,174 Output Tokens
 
-💵 $51.76 Estimated AI Cost This Week
+💵 $16.79 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 168 AI Prompts
+🧠 7 AI Sessions, 64 AI Prompts
 
-Opus                     2,931 lines         █████████████████████████   100.00 % 
+Opus                     156 lines           █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 610 characters per prompt
+📝 Concise Prompter — average 459 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -115,5 +115,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 22:57:09 UTC
+ Last Updated on 30/10/2026 22:35:59 UTC
 <!--END_SECTION:waka-->
